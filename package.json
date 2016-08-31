@@ -1,0 +1,11 @@
+{
+  "name": "Dotography-TankList",
+  "version": "0.0.1",
+  "description": "This Project make it for exercise about RESTFUL API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.13.3",
+    "mysql": "^2.11.1"
+  }
+}
